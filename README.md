@@ -34,16 +34,10 @@ Here is my R code into the 6 phases of data analysis: Ask, Prepare, Process, Ana
 
 4. **Trips by Day and Month:**
    - Grouped bar plot illustrates how the number of trips varies by both month and day.
-
-5. **Trips by Bases:**
-   - Bar plot shows the distribution of trips for each Uber base.
-
-6. **Trips by Bases and Month:**
-   - Grouped bar plot illustrates how the number of trips varies for each Uber base across different months.
-
-7. **Trips by Bases and Day of Week:**
-   - Grouped bar plot shows how the number of trips varies for each Uber base across different days of the week.
-
+     
+5. **Trips in a Month**     
+     - Bar plot illustrates how the number of trips varies by each month.
+     - 
 8. **Heat Map by Hour and Day:**
    - Heatmap visualizes the density of trips based on the combination of hour and day.
 
@@ -71,4 +65,4 @@ Here is my R code into the 6 phases of data analysis: Ask, Prepare, Process, Ana
   - Based on the results and actions taken, the analysis process may be refined or expanded in subsequent iterations.
   - Continuous feedback and analysis help in improving the understanding of Uber ride data.
 
-This breakdown aligns the provided R code with each phase of the data analysis process.
+
